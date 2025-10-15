@@ -1,0 +1,8 @@
+CREATE DATABASE animal_adoption;
+USE animal_adoption;
+
+CREATE TABLE animals ( id INT PRIMARY KEY, name VARCHAR(30), age INT, 
+breed VARCHAR(30), status VARCHAR(20)   
+);
+
+SELECT * FROM animals;

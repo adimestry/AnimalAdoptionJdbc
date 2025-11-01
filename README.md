@@ -30,4 +30,9 @@ CREATE TABLE animals (
     status VARCHAR(20)   -- Available / Adopted
 );
 
+<img width="1658" height="888" alt="Sql Connection " src="https://github.com/user-attachments/assets/ddf2aa6b-565d-42db-9f6d-8f58d68e6e00" />
+<img width="932" height="785" alt="vs code" src="https://github.com/user-attachments/assets/f1d5e0f1-1ae3-4fef-b603-0bb276f4e8b1" />
+
+
+
 SELECT * FROM animals;
